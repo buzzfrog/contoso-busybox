@@ -1,0 +1,7 @@
+resources:
+  - input-config-configmap.yaml
+  - process-config-configmap.yaml
+  - output-config-configmap.yaml
+  - input-deployment.yaml
+  - process-deployment.yaml
+  - output-deployment.yaml

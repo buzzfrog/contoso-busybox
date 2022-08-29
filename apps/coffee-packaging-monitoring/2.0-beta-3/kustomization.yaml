@@ -1,0 +1,6 @@
+images:
+- name: busybox
+  newTag: "2.0-beta-3"
+
+resources:
+- ../base
